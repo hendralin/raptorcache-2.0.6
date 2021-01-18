@@ -1,0 +1,9 @@
+*.mp4
+*.camrec
+*.camproj
+passwd.txt
+Update/passwd.txt
+Update/*.tar.gz
+Update/*.rsc
+RaptorCache-2.0.6.tar.gz
+mikrotik-raptor-rule.rsc

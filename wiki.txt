@@ -1,0 +1,23 @@
+﻿Instalación y configuración Raptorcache 2 - 2018
+http://www.alterserv.com/foros/index.php/topic,2447.0.html
+
+Raptorcache for CD = https://mega.nz/#!kPBwmA4Z!7EbH2t_rnRH_18zjFHaD5nr15abZ7EDzah9uLjp2nB8
+Raptorcache for USB = https://mega.nz/#!vdoExK4Q!ntr-C23-X_SswNIRbvy84LSfVb6SQFJWP3Ge6Flxco0
+
+https://www.raptorcache.org/wiki
+
+https://www.raptorcache.org/generador
+
+=======================================================
+https://www.raptorcache.org/wiki/limpieza-del-cache/
+How to clear the cache?
+The cache can be cleared according to the following needs using the following commands per termminal
+
+Clean all content
+# clean -1
+
+Clean for the time spent without HIT in the cache, eg. If we want to make the content that is stored 45 days without caching.
+# cleanhit 45
+
+Clean all the content of a specific domain, then we execute the following command by terminal, eg. in the case of avast.com
+# cleandomain avast.com -1

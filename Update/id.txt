@@ -1,0 +1,27 @@
+Installasi dan konfigurasi RaptorCache-2.0.6 menggunakan Debian 8.11 (jessie) & MikroTik RouterOS 6.x, Didukung dengan Squid-3.5.20
+
+Pada Tutorial ini kita menggunakan OS Debian 8.11 (jessie) yang telah dibuild oleh pihak resmi pengembang RaptorCache. 
+
+Untuk proses installasi dan konfigurasi bisa dibilang cukup mudah dan lebih cepat daripada Tutorial sebelumnya yang menggunakan Linux Ubuntu-18.04.x hanya saja untuk squidnya masih menggunakan versi 3.5.20
+
+Untuk file installasinya dapat didownload pada link berikut ini.
+
+RaptorCache untuk CD Installation = https://mega.nz/#!kPBwmA4Z!7EbH2t_rnRH_18zjFHaD5nr15abZ7EDzah9uLjp2nB8
+RaptorCache untuk USB Installation = https://mega.nz/#!vdoExK4Q!ntr-C23-X_SswNIRbvy84LSfVb6SQFJWP3Ge6Flxco0
+
+Source: http://www.alterserv.com/foros/index.php/topic,2447.0.html
+
+Situs resmi Wiki mengenai dokumentasi RaptorCache
+http://www.alterserv.com/foros/index.php/topic,2447.0.html
+
+=====
+
+Kami juga telah menambahkan beberapa update pada file squid.conf agar proses caching lebih optimal (High Perfomance) dan juga update untuk file routeros_api.class.php 
+
+Source: https://github.com/hendralin/raptorcache-2.0.6
+
+Dukung kami dengan men-subscrib cenel ini dan like pada video kami agar kami dapat terus membagikan tutorial/tips/trick yang sangat menarik.
+
+Apabila ada pertanyaan silahkan comment dibawah ini. Terima kasih.
+
+Salam Oprek

@@ -1,0 +1,5 @@
+# openssl req -new -newkey rsa:4096 -days 3650 -nodes -x509 -subj \
+"/C=ID/ST=Palembang/L=Palembang/O=Bengkel-Oprek.web.id/OU=RaptorCache/CN=RaptorCache \
+For Free/emailAddress=info@bengkel-oprek.web.id" \
+-keyout myCA.pem -out myCA.pem
+# openssl x509 -in myCA.pem -outform DER -out myCA.crt
