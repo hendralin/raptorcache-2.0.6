@@ -18,6 +18,8 @@ http://www.alterserv.com/foros/index.php/topic,2447.0.html
 
 We have also added several updates to the squid.conf file so that the caching process is more optimal (High Performance) and also updates for the routeros_api.class.php file.
 
+Source: https://github.com/hendralin/raptorcache-2.0.6
+
 Support us by subscribing to this cenel and liking our videos so we can continue to share very interesting tutorials / tips / tricks.
 
 If you have questions, please comment below. thanks.

@@ -5,5 +5,6 @@ passwd.txt
 Update/passwd.txt
 Update/*.tar.gz
 Update/*.rsc
+Update/tmp
 RaptorCache-2.0.6.tar.gz
 mikrotik-raptor-rule.rsc
