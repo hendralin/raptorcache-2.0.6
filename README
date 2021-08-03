@@ -1,5 +1,7 @@
 Installasi dan konfigurasi RaptorCache-2.0.6 menggunakan Debian 8.11 (jessie) & MikroTik RouterOS 6.x, Didukung dengan Squid-3.5.20
 
+SEBELUM LANJUT KESETUP MOHON BACA DAHULU FILE "README FIRST!.TXT"
+
 Pada Tutorial ini kita menggunakan OS Debian 8.11 (jessie) yang telah dibuild oleh pihak resmi pengembang RaptorCache. 
 
 Untuk proses installasi dan konfigurasi bisa dibilang cukup mudah dan lebih cepat daripada Tutorial sebelumnya yang menggunakan Linux Ubuntu-18.04.x hanya saja untuk squidnya masih menggunakan versi 3.5.20
